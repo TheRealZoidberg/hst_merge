@@ -12,7 +12,7 @@ parts:
     - file: notebooks/COS/AsnFile/AsnFile.ipynb
     - file: notebooks/COS/CalCOS/CalCOS.ipynb
     - file: notebooks/COS/SplitTag/SplitTag.ipynb
-    - file: notebooks/COS/DayNight/DayNight.ipynb
+      #- file: notebooks/COS/DayNight/DayNight.ipynb
     - file: notebooks/COS/LSF/LSF.ipynb
     - file: notebooks/COS/Extract/Extract.ipynb
     - file: notebooks/COS/example_notebook/example_notebook.ipynb
